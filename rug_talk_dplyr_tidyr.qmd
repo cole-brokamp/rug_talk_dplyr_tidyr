@@ -75,7 +75,7 @@ format:
 
 Tidy data works well with pipes: `x |> f(y)` becomes `f(x,y)`
 
-&nbsp;&nbsp;&nbsp;&nbsp;R for Data Science (2e): <https://r4ds.hadley.nz/>
+&nbsp;&nbsp;&nbsp;R for Data Science (2e): <https://r4ds.hadley.nz/>
 
 ## Tidying Data with {tidyr}
 
